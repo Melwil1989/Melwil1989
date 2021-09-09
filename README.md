@@ -1,8 +1,6 @@
-<h1 align="center">Hi there 👋</h1>
-
 ![](https://user-images.githubusercontent.com/79877606/132607395-c16890a3-d5e3-4b17-81b3-e4533943f2e7.gif)
 
-- 🌱 I’m currently learning **backend development at ADA ITW**
+- 🌱 I’m currently learning backend development at ADA ITW
 
 
 <h3 align="left">Languages and Tools:</h3>
