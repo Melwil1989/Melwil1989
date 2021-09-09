@@ -1,6 +1,10 @@
 ![](https://user-images.githubusercontent.com/79877606/132607395-c16890a3-d5e3-4b17-81b3-e4533943f2e7.gif)
 
-- 🌱 *I’m currently learning backend development at ADA ITW*
+- 🌸 *I’m currently studying backend development at ADA ITW*
+- 🌸 *I'd like to work at interesting projects*
+- 🌸 *I'm always searching for challenges*
+- 🌸 *I love learning new things*
+- 🌸 *I'm fond of playing violin, knitting and reading*
 
 
 <h3 align="left">Languages and Tools:</h3>
