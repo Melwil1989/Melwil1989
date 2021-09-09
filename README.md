@@ -1,4 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
+
+![](https://www.canva.com/design/DAEpMsi9TNA/ZwKeoYXCzl59xETkp0mxjQ/watch?utm_content=DAEpMsi9TNA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink){width='1120px'}
+
 - 🌱 I’m currently learning **backend development at ADA ITW**
 
 
