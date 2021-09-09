@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/79877606/132717418-438c59af-597d-4e9f-960b-73723909785b.gif)
+![](https://user-images.githubusercontent.com/79877606/132607395-c16890a3-d5e3-4b17-81b3-e4533943f2e7.gif)
 
 - 🌱 I’m currently learning backend development at ADA ITW
 
