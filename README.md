@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Melisa Wilberg</h1>
+<h1 align="center">Hi there 👋</h1>
 - 🌱 I’m currently learning **backend development at ADA ITW**
 
 
